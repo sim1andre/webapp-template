@@ -1,4 +1,4 @@
-#Advanced Gulp Project (Node Version)
+#Template for web apps with Express
 
 ##install
 
@@ -24,4 +24,4 @@ Uncomment this snippet in app.scss
 '../vendor/foundation/scss/foundation',
 '../vendor/foundation/scss/normalize';
 ```
-"# webapp-template" 
+"# webapp-template"
